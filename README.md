@@ -6,7 +6,7 @@
   
 ## Block Diagram
 <p align="center">
-  <img src=" " alt="Block Diagram" width="500">
+  <img src="CAN_PROJECT_BLOCKDIAGRAM.png" alt="Block Diagram" width="500">
 </p>
 
 ## Main node:
