@@ -1,6 +1,10 @@
 # DASHBOARD-DESIGN-USING-CAN-BUS
 
 - CAN based multi‑node fuel &amp; indicator system using LPC2129, LCD, ADC, DS18B20 and fuel gauge.
+## Block Diagram
+<p align="center">
+  <img src=" " alt="Block Diagram" width="500">
+</p>
 
 - This project implements a multi-node automotive-style dashboard system using the LPC2129 microcontroller and CAN protocol. The system displays engine temperature and fuel percentage on an LCD, and controls left and right indicator behavior through separate CAN-connected nodes. 
 - The project is divided into three functional nodes: a Main Node for display and coordination, a Fuel Node for ADC-based fuel measurement, and an Indicator Node for LED-based indicator control. This architecture demonstrates distributed embedded system design using CAN communication between nodes.
